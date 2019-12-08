@@ -1,4 +1,4 @@
-## Fist set API KEY
+## Fist set API KEY (google places api)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
