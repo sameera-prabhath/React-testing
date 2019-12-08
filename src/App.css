@@ -1,0 +1,24 @@
+.container{
+  margin-top: 30px; 
+}
+.ul{
+  margin-top:20px;
+float: left ;  
+}
+.savePlace{
+ border-left:1px solid rgb(156, 151, 151);
+ padding-left: 20px;
+  float: right;
+}
+
+
+ul{ 
+  list-style:none;
+}
+li{
+    margin-top:30px;
+    
+}
+.savePlace{
+  width: 300px;
+}
